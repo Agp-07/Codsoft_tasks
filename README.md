@@ -30,4 +30,3 @@ Each task demonstrates different skills in data preprocessing, visualization, an
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Platform:** Jupyter Notebook
 
-## 📂 Repository Structure
